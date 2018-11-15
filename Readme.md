@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/Customize Filter Items/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Customize Filter Items/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/Customize Filter Items/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Customize Filter Items/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Customize Filter Items
 
 
