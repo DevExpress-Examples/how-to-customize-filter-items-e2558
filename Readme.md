@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/Customize Filter Items/MainPage.xaml) (VB: [MainPage.xaml](./VB/Customize Filter Items/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Customize Filter Items/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Customize Filter Items/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Customize Filter Items/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Customize Filter Items/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Customize Filter Items
 
